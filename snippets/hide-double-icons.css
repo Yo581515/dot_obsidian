@@ -1,0 +1,10 @@
+de double icons · CSS
+/* Hide ALL of Soft Paper's own file icons (the grey page icons),
+   so only your icon plugin's icons (Material Icon Theme / Iconize) show. */
+.nav-file .nav-file-title[data-path]::before,
+.nav-file .nav-file-title::before {
+  display: none !important;
+  content: none !important;
+  -webkit-mask-image: none !important;
+}
+ 

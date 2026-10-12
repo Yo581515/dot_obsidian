@@ -1,0 +1,105 @@
+{
+  "applyToFiles": false,
+  "applyToFolders": true,
+  "enableCustomRules": true,
+  "customRules": [
+    {
+      "type": "folder",
+      "extension": "operon",
+      "iconKey": "custom-custom-folder-factory-material"
+    },
+    {
+      "type": "folder",
+      "extension": "daily",
+      "iconKey": "custom-custom-folder-daily"
+    },
+    {
+      "type": "folder",
+      "extension": "weekly",
+      "iconKey": "custom-custom-folder-weekly"
+    },
+    {
+      "type": "folder",
+      "extension": "monthly",
+      "iconKey": "custom-custom-folder-monthly"
+    },
+    {
+      "type": "folder",
+      "extension": "comics",
+      "iconKey": "custom-custom-folder-comics"
+    },
+    {
+      "type": "folder",
+      "extension": "excalidraw",
+      "iconKey": "custom-custom-folder-excalidraw"
+    },
+    {
+      "type": "folder",
+      "extension": "excalidraws",
+      "iconKey": "custom-custom-folder-excalidraw"
+    },
+    {
+      "type": "folder",
+      "extension": "+",
+      "iconKey": "folder"
+    },
+    {
+      "type": "folder",
+      "extension": "maps",
+      "iconKey": "custom-custom-folder-maps"
+    },
+    {
+      "type": "folder",
+      "extension": "calendar",
+      "iconKey": "custom-custom-folder-calendar"
+    },
+    {
+      "type": "folder",
+      "extension": "tables",
+      "iconKey": "custom-custom-folder-tables"
+    },
+    {
+      "type": "folder",
+      "extension": "aios",
+      "iconKey": "custom-custom-folder-aios"
+    },
+    {
+      "type": "folder",
+      "extension": "job search",
+      "iconKey": "custom-custom-folder-job-search"
+    },
+    {
+      "type": "folder",
+      "extension": "nav",
+      "iconKey": "custom-custom-folder-nav"
+    },
+    {
+      "type": "folder",
+      "extension": "letters",
+      "iconKey": "custom-custom-folder-letters"
+    }
+  ],
+  "pathIcons": {
+    "AIOS/History/Daily Briefs": "custom-custom-folder-daily",
+    "AIOS/History/Daily Logs": "folder-log-open",
+    "AIOS/History/Weekly Briefs": "custom-custom-folder-weekly",
+    "AIOS/Systems": "custom-custom-folder-systems",
+    "ideaverse": "custom-custom-folder-ideaverse",
+    "Excalidraw/Comics": "custom-custom-folder-comics",
+    "AIOS/History/Monthly Briefs": "custom-custom-folder-monthly",
+    "Job Search/CV": "folder-job",
+    "Job Search/Ads": "folder-app",
+    "Job Search/Letters/Trainee Sør": "custom-custom-folder-letters",
+    "Job Search/Letters/TechnipFMC": "custom-custom-folder-letters",
+    "Job Search/Letters/OneSubsea": "custom-custom-folder-letters"
+  },
+  "pathColors": {
+    "calendar/daily/2026-11-08.md": "#ef5350",
+    "Excalidraw/Comics": "#ef5350",
+    "Job Search/Ads": "#90a4ae",
+    "Job Search/Letters/OneSubsea": "#42a5f5",
+    "Job Search/Letters/TechnipFMC": "#42a5f5",
+    "Job Search/Letters/Trainee Sør": "#42a5f5"
+  },
+  "language": "auto"
+}

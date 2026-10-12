@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"
+     fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Folder -->
+  <path d="M6,12 h10 l4,4 h22 a2,2 0 0 1 2,2 v22 a2,2 0 0 1 -2,2 H6 a2,2 0 0 1 -2,-2 V14 a2,2 0 0 1 2,-2 z"/>
+  <!-- Factory (mirrored horizontally around the folder's center) -->
+  <g transform="matrix(-1 0 0 1 48 0)">
+    <path d="M14,37 V29 L19,26 V29 L24,26 V29 L29,26 V29 L30,21 H33 L34,37 Z"/>
+    <rect x="17" y="31" width="3" height="3" fill="currentColor" stroke="none"/>
+    <rect x="23" y="31" width="3" height="3" fill="currentColor" stroke="none"/>
+  </g>
+</svg>

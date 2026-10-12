@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Folder -->
+  <path fill="#FF7043" d="M4,5 h7.2 a1.5,1.5 0 0 1 1.06,.44 L14.5,7.5 H28 a2,2 0 0 1 2,2 V25 a2,2 0 0 1 -2,2 H4 a2,2 0 0 1 -2,-2 V7 a2,2 0 0 1 2,-2 z"/>
+  <!-- Factory glyph (bottom-right, lighter tint) -->
+  <path fill="#FFCCBC" d="M16,29 V17 a1,1 0 0 1 1,-1 h1 a1,1 0 0 1 1,1 V20 L22.67,23 V20 L26.33,23 V20 L30,23 V29 Z"/>
+  <!-- Windows -->
+  <rect fill="#FF7043" x="21" y="25" width="2" height="2"/>
+  <rect fill="#FF7043" x="25.5" y="25" width="2" height="2"/>
+</svg>

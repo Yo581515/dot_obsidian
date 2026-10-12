@@ -1,0 +1,9 @@
+/* PDF export only: never cut a part across pages - move it to the next page.
+   Does not change how anything looks. */
+@media print {
+  .el-h1, .el-h2, .el-h3, h1, h2, h3 { break-after: avoid !important; page-break-after: avoid !important; }
+  .el-p:has(+ .el-ul), .el-p:has(+ .el-ol), .el-p:has(+ .el-table),
+  p:has(+ ul), p:has(+ ol) { break-after: avoid !important; page-break-after: avoid !important; }
+  .el-p, .el-ul, .el-ol, .el-table, ul, ol, table, li, tr { break-inside: avoid !important; page-break-inside: avoid !important; }
+  li:not(:last-child), tr:not(:last-child) { break-after: avoid !important; page-break-after: avoid !important; }
+}

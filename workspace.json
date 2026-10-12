@@ -1,0 +1,335 @@
+{
+  "main": {
+    "id": "0f0c20bd6b2de885",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d8435241d1a84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbfd8b5df3823fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operon/Tasks/My Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Tasks"
+            }
+          },
+          {
+            "id": "90ab0682ef9ef1f8",
+            "type": "leaf",
+            "state": {
+              "type": "operon-kanban-view",
+              "state": {
+                "forceMobileLayout": false,
+                "presetId": "kanban-preset-default",
+                "searchQuery": "",
+                "collapsedStatusIds": [],
+                "collapsedLaneKeys": [],
+                "collapsedStatusIdsByPreset": {},
+                "collapsedLaneKeysByPreset": {},
+                "collapsedStatusIdsByScope": {
+                  "kanban-preset-default::pl_project": [],
+                  "kp_ups5q7h::pl_project": []
+                },
+                "collapsedLaneKeysByScope": {
+                  "kanban-preset-default::pl_project::priority": [],
+                  "kp_ups5q7h::pl_project::priority": []
+                },
+                "expandedPreviewParentIds": []
+              },
+              "icon": "square-kanban",
+              "title": "Interview Course"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fa1fd1fc2ec6da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b2260ccd68e3184",
+        "type": "tabs",
+        "dimension": 74.09326424870467,
+        "children": [
+          {
+            "id": "d3887270575176f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91b9623548a682b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "34ef81f022e2973b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "71a06a33c17959ed",
+        "type": "tabs",
+        "dimension": 25.906735751295336,
+        "children": [
+          {
+            "id": "5d9787a9fbfea4e0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.22593688964844
+  },
+  "right": {
+    "id": "a7ff2ffd475b91a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa654ffed67e7e2d",
+        "type": "tabs",
+        "dimension": 64.09313725490196,
+        "children": [
+          {
+            "id": "1533def4fbf15379",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operon/Tasks/My Tasks.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "80fcb295211ce430",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "905faac688c61957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "73d72b33c29f5976",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "pinned": true,
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "14a494ae9a8b5b3f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "operon-flow-time",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "operon-flow-time"
+            }
+          },
+          {
+            "id": "16c70740c0a9bfd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Job Search/Applications.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "eb371644edef797e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operon/Tasks/My Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5ca35c3272092cdf",
+        "type": "tabs",
+        "dimension": 35.90686274509804,
+        "children": [
+          {
+            "id": "e31308b6dc3af08a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "operon:Operon Filter View": false,
+      "iconic:Open rulebook": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false,
+      "operon:Create New Operon Task": false,
+      "operon:Task Finder": false,
+      "operon:Operon Calendar": false,
+      "operon:Operon Kanban": false,
+      "operon:Operon Table": false,
+      "operon:Open Pinned Tasks": false
+    }
+  },
+  "active": "90ab0682ef9ef1f8",
+  "lastOpenFiles": [
+    "Excalidraw/2026 plan.excalidraw",
+    "Operon/Tasks/My Tasks.md",
+    "100 Funny Jokes.md",
+    "calendar/daily/2026-10-12.md",
+    "Job Search/Job Applications.md",
+    "Job Search/Letters/TechnipFMC/TechnipFMC – Norsk.md",
+    "Job Search/Applications.base",
+    "Job Search/CV/CV - English.md",
+    "Job Search/Letters/TechnipFMC/TechnipFMC – English.md",
+    "Job Search/Letters/TechnipFMC/TechnipFMC – English.pdf",
+    "Job Search/Applications/TechnipFMC.md",
+    "Job Search/Letters/TechnipFMC",
+    "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.md",
+    "Job Search/docs/Trainee Sør – Norsk.pdf",
+    "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.pdf",
+    "Job Search/Letters/Trainee Sør/Trainee Sør – English.pdf",
+    "Job Search/Letters/Trainee Sør – Norsk.pdf",
+    "Job Search/Letters/Trainee Sør/Trainee Sør – English.md",
+    "Job Search/Letters/Trainee Sør – English.pdf",
+    "Job Search/Ads/Trainee Sør.md",
+    "Job Search/Letters/Trainee Sør",
+    "Job Search/Applications/Trainee Sør.md",
+    "AIOS/History/Daily Briefs/2026-10-12 Daily Brief.md",
+    "Job Search/NAV/NAV – TechnipFMC.md",
+    "calendar/daily/2026-10-11.md",
+    "AIOS/History/Daily Logs/2026-10-12 Daily Log.md",
+    "calendar/daily/2026-11-08.md",
+    "2026-10-12.md",
+    "AIOS/History/Daily Logs/2026-10-11 Daily Log.md",
+    "ideaverse/me.md",
+    "Attachments/Pasted Image 20261008113503_793.png",
+    "Templates/NAV Job.md",
+    "Job Search/NAV/NAV – Trainee Sør.md",
+    "Job Search/Ads/TechnipFMC.md",
+    "Job Search/NAV/NAV – Storebrand.md",
+    "Job Search/NAV/NAV – OneSubsea.md",
+    "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+	"version": 5,
+	"series": {
+		"rsc4m4d": {
+			"seriesId": "rsc4m4d",
+			"sourceTaskId": "7pl2lc9",
+			"sourceFormat": "yaml",
+			"baseTitle": "send 3 søknader",
+			"lastMaterializedTitle": "send 3 søknader",
+			"naming": {
+				"mode": "plain",
+				"template": "send 3 søknader",
+				"weekTokenCase": null
+			},
+			"skipDates": [],
+			"yamlPropertyValueRemovalConfigured": false,
+			"yamlPropertyValueRemovals": [],
+			"baseTemporalTemplate": {
+				"mode": "allDay",
+				"dateShiftDays": 0,
+				"startDateShiftDays": 0,
+				"endDateShiftDays": 0,
+				"startTime": null,
+				"endTime": null,
+				"estimate": "10800"
+			},
+			"inlineCompletionMode": "keep-completed",
+			"createdAt": "2026-10-05T04:24:20",
+			"updatedAt": "2026-10-08T14:52:02",
+			"overrides": {
+				"single": {},
+				"following": []
+			}
+		}
+	}
+}

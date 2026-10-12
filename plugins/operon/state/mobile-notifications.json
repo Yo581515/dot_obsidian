@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "authoritative": true,
+  "generatedAt": "2026-10-09T02:51:54.415Z",
+  "generatedAtEpochMs": 1791514314415,
+  "vault": {
+    "id": "a767f65e-89a9-42bd-9a74-727e1f88a7ca",
+    "name": "vault2026"
+  },
+  "timezone": "Europe/Oslo",
+  "window": {
+    "start": "2026-10-09T01:51:54.415Z",
+    "startEpochMs": 1791510714415,
+    "end": "2026-10-16T02:51:54.415Z",
+    "endEpochMs": 1792119114415,
+    "horizonDays": 7,
+    "catchUpMinutes": 60
+  },
+  "sourcePolicy": {
+    "reminderDatetimes": true,
+    "reminderRules": true,
+    "datetimeStart": false
+  },
+  "tasks": []
+}

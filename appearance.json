@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Soft Paper",
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "hide-soft-paper-file-icons",
+    "hide-double-icons"
+  ]
+}

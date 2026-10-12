@@ -1,0 +1,256 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": false,
+  "showMenuActions": true,
+  "showSuggestionIcons": false,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "useSearchKeywords": "on",
+  "maxSearchResults": 100,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "maxBackups": 2,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "Job Search/CV/CV - Norsk.md": {
+      "icon": "lucide-notepad-text"
+    },
+    "Operon/Tables/Default table.table": {
+      "icon": "lucide-table",
+      "color": "#00d5ff"
+    },
+    "Operon/Tasks/My Tasks.md": {
+      "icon": "lucide-layout-list"
+    },
+    "calendar": {
+      "color": "blue"
+    },
+    "calendar/daily/2026-11-08.md": {
+      "icon": "🎂"
+    },
+    "ideaverse/me.md": {
+      "icon": "lucide-user-circle",
+      "color": "#8400ff"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {
+    "operon:Create New Operon Task": {
+      "color": "#9941ec"
+    },
+    "operon:Operon Calendar": {
+      "color": "#1cc110"
+    },
+    "operon:Operon Kanban": {
+      "color": "#ff0000"
+    },
+    "operon:Operon Table": {
+      "color": "cyan"
+    }
+  },
+  "fileRules": [
+    {
+      "id": "vBc5P",
+      "name": "CV - English",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "CV - English"
+        },
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "CV - Norsk"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-file-user",
+      "color": "#44415f"
+    },
+    {
+      "id": "2sP3h",
+      "name": "My Tasks",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains",
+          "value": "My Tasks"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-list-todo"
+    },
+    {
+      "id": "2hW4A",
+      "name": "me",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "me"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-user",
+      "color": "#8400ff"
+    },
+    {
+      "id": "ELGeB",
+      "name": "birthday",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "2026-11-08"
+        }
+      ],
+      "enabled": true,
+      "icon": "🎂"
+    },
+    {
+      "id": "byNUL",
+      "name": "excalidraw",
+      "match": "any",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "excalidraw"
+        },
+        {
+          "source": "tags",
+          "operator": "anyContain",
+          "value": "excalidraw"
+        }
+      ],
+      "enabled": true,
+      "color": "purple",
+      "icon": "excalidraw-icon"
+    },
+    {
+      "id": "GkTuB",
+      "name": "Notes",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "md"
+        }
+      ],
+      "enabled": true,
+      "color": "blue",
+      "icon": "lucide-file-text"
+    },
+    {
+      "id": "JPrMN",
+      "name": "Canvas",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "canvas"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-layout-dashboard",
+      "color": "#22e8ec"
+    },
+    {
+      "id": "ZAExw",
+      "name": "Images",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "png"
+        },
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "jpg"
+        },
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "jpeg"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-image",
+      "color": "green"
+    },
+    {
+      "id": "ZZojM",
+      "name": "tables",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": ".table"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-table",
+      "color": "#00f6fa"
+    },
+    {
+      "id": "nvqWn",
+      "name": "Excalidraw libraries",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "extension",
+          "operator": "is",
+          "value": "excalidrawlib"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-library-big",
+      "color": "#ff0000"
+    },
+    {
+      "id": "CUwf0",
+      "name": "Applications",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "Applications"
+        }
+      ],
+      "enabled": true,
+      "icon": "⭐",
+      "color": "yellow"
+    }
+  ],
+  "folderRules": []
+}
