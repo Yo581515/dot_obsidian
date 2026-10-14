@@ -6,7 +6,8 @@
     {
       "type": "folder",
       "extension": "operon",
-      "iconKey": "custom-custom-folder-factory-material"
+      "iconKey": "custom-custom-folder-factory-material",
+      "color": "#ff0000"
     },
     {
       "type": "folder",
@@ -77,6 +78,12 @@
       "type": "folder",
       "extension": "letters",
       "iconKey": "custom-custom-folder-letters"
+    },
+    {
+      "type": "folder",
+      "extension": "untitled",
+      "iconKey": "folder-backup",
+      "color": "#9900ff"
     }
   ],
   "pathIcons": {
@@ -88,18 +95,11 @@
     "Excalidraw/Comics": "custom-custom-folder-comics",
     "AIOS/History/Monthly Briefs": "custom-custom-folder-monthly",
     "Job Search/CV": "folder-job",
-    "Job Search/Ads": "folder-app",
-    "Job Search/Letters/Trainee Sør": "custom-custom-folder-letters",
-    "Job Search/Letters/TechnipFMC": "custom-custom-folder-letters",
-    "Job Search/Letters/OneSubsea": "custom-custom-folder-letters"
+    "Job Search/Ads": "folder-app"
   },
   "pathColors": {
-    "calendar/daily/2026-11-08.md": "#ef5350",
     "Excalidraw/Comics": "#ef5350",
-    "Job Search/Ads": "#90a4ae",
-    "Job Search/Letters/OneSubsea": "#42a5f5",
-    "Job Search/Letters/TechnipFMC": "#42a5f5",
-    "Job Search/Letters/Trainee Sør": "#42a5f5"
+    "Job Search/Ads": "#90a4ae"
   },
   "language": "auto"
 }

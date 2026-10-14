@@ -4,52 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "62d8435241d1a84e",
+        "id": "52097c6a27419967",
         "type": "tabs",
         "children": [
           {
-            "id": "dbfd8b5df3823fd3",
+            "id": "f2d236026fc18e13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Operon/Tasks/My Tasks.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/2026 plan.excalidraw"
               },
-              "icon": "lucide-file",
-              "title": "My Tasks"
-            }
-          },
-          {
-            "id": "90ab0682ef9ef1f8",
-            "type": "leaf",
-            "state": {
-              "type": "operon-kanban-view",
-              "state": {
-                "forceMobileLayout": false,
-                "presetId": "kanban-preset-default",
-                "searchQuery": "",
-                "collapsedStatusIds": [],
-                "collapsedLaneKeys": [],
-                "collapsedStatusIdsByPreset": {},
-                "collapsedLaneKeysByPreset": {},
-                "collapsedStatusIdsByScope": {
-                  "kanban-preset-default::pl_project": [],
-                  "kp_ups5q7h::pl_project": []
-                },
-                "collapsedLaneKeysByScope": {
-                  "kanban-preset-default::pl_project::priority": [],
-                  "kp_ups5q7h::pl_project::priority": []
-                },
-                "expandedPreviewParentIds": []
-              },
-              "icon": "square-kanban",
-              "title": "Interview Course"
+              "icon": "excalidraw-icon",
+              "title": "2026 plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +40,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": true,
+                "autoReveal": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
@@ -108,8 +78,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "71a06a33c17959ed",
@@ -147,13 +116,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operon/Tasks/My Tasks.md",
+                "file": "Excalidraw/2026 plan.excalidraw",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline"
+            }
+          },
+          {
+            "id": "530d5fb2f52eb29c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -202,11 +181,9 @@
           {
             "id": "14a494ae9a8b5b3f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "operon-flow-time",
               "state": {},
-              "pinned": true,
               "icon": "lucide-ghost",
               "title": "operon-flow-time"
             }
@@ -217,7 +194,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Search/Applications.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +212,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operon/Tasks/My Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -267,12 +242,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 374.84765625
   },
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "operon:Operon Filter View": false,
       "iconic:Open rulebook": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -283,6 +257,7 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "periodic-notes:Open today": false,
       "operon:Create New Operon Task": false,
+      "operon:Operon Filter View": false,
       "operon:Task Finder": false,
       "operon:Operon Calendar": false,
       "operon:Operon Kanban": false,
@@ -290,46 +265,54 @@
       "operon:Open Pinned Tasks": false
     }
   },
-  "active": "90ab0682ef9ef1f8",
+  "active": "f2d236026fc18e13",
   "lastOpenFiles": [
-    "Excalidraw/2026 plan.excalidraw",
+    "Operon/Tasks/Job Search Tasks.md",
+    "Untitled",
+    "Operon/Tables/Default table.table",
+    "Learning Plan Full-Stack, C# & Terraform.md",
+    "calendar/daily/2026-10-14.md",
+    "Operon/Tasks/Interview Prep Tasks.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Job Search/Letters/Søknad – Mal (Tekna).md",
+    "Operon/Tasks/Portfolio Tasks.md",
     "Operon/Tasks/My Tasks.md",
-    "100 Funny Jokes.md",
-    "calendar/daily/2026-10-12.md",
-    "Job Search/Job Applications.md",
-    "Job Search/Letters/TechnipFMC/TechnipFMC – Norsk.md",
-    "Job Search/Applications.base",
-    "Job Search/CV/CV - English.md",
-    "Job Search/Letters/TechnipFMC/TechnipFMC – English.md",
-    "Job Search/Letters/TechnipFMC/TechnipFMC – English.pdf",
+    "Operon/Tasks/Learning Tasks.md",
+    "Job Search/Letters/TechnipFMC/Søknad - TechnipFMC - English.pdf",
+    "Job Search/Letters/Sopra Steria/Søknad - Soprasteria.pdf",
+    "Job Search/Letters/OneSubsea/Søknad - OneSubsea - English.pdf",
+    "Job Search/Letters/Experis/Søknad - Experis.pdf",
+    "Job Search/Letters/Experis/CV - Experis.pdf",
+    "Job Search/Letters/Ease Live/Søknad - Ease Live AS - English.pdf",
+    "Attachments/foto_to_take.jpg",
     "Job Search/Applications/TechnipFMC.md",
-    "Job Search/Letters/TechnipFMC",
-    "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.md",
-    "Job Search/docs/Trainee Sør – Norsk.pdf",
-    "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.pdf",
-    "Job Search/Letters/Trainee Sør/Trainee Sør – English.pdf",
-    "Job Search/Letters/Trainee Sør – Norsk.pdf",
+    "Job Search/Applications/OneSubsea.md",
+    "Job Search/Applications/Ease Live.md",
+    "Job Search/Applications/DNV.md",
     "Job Search/Letters/Trainee Sør/Trainee Sør – English.md",
-    "Job Search/Letters/Trainee Sør – English.pdf",
-    "Job Search/Ads/Trainee Sør.md",
-    "Job Search/Letters/Trainee Sør",
     "Job Search/Applications/Trainee Sør.md",
-    "AIOS/History/Daily Briefs/2026-10-12 Daily Brief.md",
-    "Job Search/NAV/NAV – TechnipFMC.md",
-    "calendar/daily/2026-10-11.md",
-    "AIOS/History/Daily Logs/2026-10-12 Daily Log.md",
-    "calendar/daily/2026-11-08.md",
-    "2026-10-12.md",
-    "AIOS/History/Daily Logs/2026-10-11 Daily Log.md",
-    "ideaverse/me.md",
+    "Job Search/Applications/EXPERIS AS.md",
+    "Job Search/Applications/Miles.md",
+    "Job Search/Applications/Sopra Steria.md",
+    "Job Search/Applications/Storebrand.md",
+    "Job Search/Letters/Ease Live/Ease Live – English.md",
+    "Job Search/Letters/Ease Live/Ease Live – Norsk.md",
+    "Job Search/Ads/OneSubsea.md",
+    "Job Search/Letters/DNV/DNV – Norsk.md",
+    "Job Search/docs/images/1 (1)-blue gray.jpg",
+    "Job Search/docs/images/1 (1)-gray.jpg",
+    "Job Search/docs/images/1 (1)-hvl_colour.jpg",
+    "Job Search/docs/images/1 (1).jpg",
+    "Job Search/docs/images/1.jpg",
+    "Job Search/docs/images/gray_backround.jpg",
+    "Job Search/docs/gray_backround.jpg",
+    "Job Search/docs/2 (1)_cropped.jpg",
+    "Job Search/CV/CV - Norsk.md",
+    "Job Search/Letters/Generell søknad – Norsk.md",
+    "Obsidian Cheat Sheet.md",
     "Attachments/Pasted Image 20261008113503_793.png",
-    "Templates/NAV Job.md",
-    "Job Search/NAV/NAV – Trainee Sør.md",
-    "Job Search/Ads/TechnipFMC.md",
-    "Job Search/NAV/NAV – Storebrand.md",
-    "Job Search/NAV/NAV – OneSubsea.md",
-    "Excalidraw/Scripts/Downloaded/Palm Guard.svg",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

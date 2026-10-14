@@ -1,48 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "My Tasks",
-      "path": "Operon/Tasks/My Tasks.md"
-    },
-    {
       "basename": "2026 plan",
       "path": "Excalidraw/2026 plan.excalidraw"
     },
     {
-      "basename": "100 Funny Jokes",
-      "path": "100 Funny Jokes.md"
+      "basename": "My Tasks",
+      "path": "Operon/Tasks/My Tasks.md"
     },
     {
-      "basename": "2026-10-12",
-      "path": "calendar/daily/2026-10-12.md"
+      "basename": "Job Search Tasks",
+      "path": "Operon/Tasks/Job Search Tasks.md"
     },
     {
-      "basename": "Job Applications",
-      "path": "Job Search/Job Applications.md"
+      "basename": "Default table",
+      "path": "Operon/Tables/Default table.table"
     },
     {
-      "basename": "TechnipFMC – Norsk",
-      "path": "Job Search/Letters/TechnipFMC/TechnipFMC – Norsk.md"
+      "basename": "Learning Plan Full-Stack, C# & Terraform",
+      "path": "Learning Plan Full-Stack, C# & Terraform.md"
     },
     {
-      "basename": "Applications",
-      "path": "Job Search/Applications.base"
+      "basename": "2026-10-14",
+      "path": "calendar/daily/2026-10-14.md"
     },
     {
-      "basename": "CV - English",
-      "path": "Job Search/CV/CV - English.md"
+      "basename": "Interview Prep Tasks",
+      "path": "Operon/Tasks/Interview Prep Tasks.md"
     },
     {
-      "basename": "TechnipFMC – English",
-      "path": "Job Search/Letters/TechnipFMC/TechnipFMC – English.md"
+      "basename": "Søknad – Mal (Tekna)",
+      "path": "Job Search/Letters/Søknad – Mal (Tekna).md"
+    },
+    {
+      "basename": "Portfolio Tasks",
+      "path": "Operon/Tasks/Portfolio Tasks.md"
+    },
+    {
+      "basename": "Learning Tasks",
+      "path": "Operon/Tasks/Learning Tasks.md"
+    },
+    {
+      "basename": "Søknad - TechnipFMC - English",
+      "path": "Job Search/Letters/TechnipFMC/Søknad - TechnipFMC - English.pdf"
+    },
+    {
+      "basename": "Søknad - Soprasteria",
+      "path": "Job Search/Letters/Sopra Steria/Søknad - Soprasteria.pdf"
+    },
+    {
+      "basename": "Søknad - OneSubsea - English",
+      "path": "Job Search/Letters/OneSubsea/Søknad - OneSubsea - English.pdf"
+    },
+    {
+      "basename": "Søknad - Experis",
+      "path": "Job Search/Letters/Experis/Søknad - Experis.pdf"
+    },
+    {
+      "basename": "CV - Experis",
+      "path": "Job Search/Letters/Experis/CV - Experis.pdf"
+    },
+    {
+      "basename": "Søknad - Ease Live AS - English",
+      "path": "Job Search/Letters/Ease Live/Søknad - Ease Live AS - English.pdf"
+    },
+    {
+      "basename": "Søknad - DNV - English",
+      "path": "Job Search/Letters/DNV/Søknad - DNV - English.pdf"
+    },
+    {
+      "basename": "foto_to_take",
+      "path": "Attachments/foto_to_take.jpg"
     },
     {
       "basename": "TechnipFMC",
       "path": "Job Search/Applications/TechnipFMC.md"
     },
     {
+      "basename": "OneSubsea",
+      "path": "Job Search/Applications/OneSubsea.md"
+    },
+    {
+      "basename": "Ease Live",
+      "path": "Job Search/Applications/Ease Live.md"
+    },
+    {
+      "basename": "DNV",
+      "path": "Job Search/Applications/DNV.md"
+    },
+    {
       "basename": "Trainee Sør – Norsk",
-      "path": "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.md"
+      "path": "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.pdf"
+    },
+    {
+      "basename": "Trainee Sør – English",
+      "path": "Job Search/Letters/Trainee Sør/Trainee Sør – English.pdf"
     },
     {
       "basename": "Trainee Sør – English",
@@ -50,155 +102,103 @@
     },
     {
       "basename": "Trainee Sør",
-      "path": "Job Search/Ads/Trainee Sør.md"
-    },
-    {
-      "basename": "Trainee Sør",
       "path": "Job Search/Applications/Trainee Sør.md"
-    },
-    {
-      "basename": "2026-10-12 Daily Brief",
-      "path": "AIOS/History/Daily Briefs/2026-10-12 Daily Brief.md"
-    },
-    {
-      "basename": "NAV – TechnipFMC",
-      "path": "Job Search/NAV/NAV – TechnipFMC.md"
-    },
-    {
-      "basename": "2026-10-11",
-      "path": "calendar/daily/2026-10-11.md"
-    },
-    {
-      "basename": "2026-11-08",
-      "path": "calendar/daily/2026-11-08.md"
-    },
-    {
-      "basename": "CV - Norsk",
-      "path": "Job Search/CV/CV - Norsk.pdf"
-    },
-    {
-      "basename": "CV - English",
-      "path": "Job Search/CV/CV - English.pdf"
-    },
-    {
-      "basename": "2026-10-11 Daily Log",
-      "path": "AIOS/History/Daily Logs/2026-10-11 Daily Log.md"
-    },
-    {
-      "basename": "me",
-      "path": "ideaverse/me.md"
-    },
-    {
-      "basename": "Pasted Image 20261008113503_793",
-      "path": "Attachments/Pasted Image 20261008113503_793.png"
-    },
-    {
-      "basename": "NAV Job",
-      "path": "Templates/NAV Job.md"
-    },
-    {
-      "basename": "NAV – Trainee Sør",
-      "path": "Job Search/NAV/NAV – Trainee Sør.md"
-    },
-    {
-      "basename": "NAV – Storebrand",
-      "path": "Job Search/NAV/NAV – Storebrand.md"
-    },
-    {
-      "basename": "NAV – OneSubsea",
-      "path": "Job Search/NAV/NAV – OneSubsea.md"
-    },
-    {
-      "basename": "NAV – Miles",
-      "path": "Job Search/NAV/NAV – Miles.md"
-    },
-    {
-      "basename": "NAV – EXPERIS AS",
-      "path": "Job Search/NAV/NAV – EXPERIS AS.md"
-    },
-    {
-      "basename": "Daily Note",
-      "path": "Templates/Daily Note.md"
-    },
-    {
-      "basename": "Job Application",
-      "path": "Templates/Job Application.md"
-    },
-    {
-      "basename": "CV - Norsk",
-      "path": "Job Search/CV/CV - Norsk.md"
-    },
-    {
-      "basename": "OneSubsea – Norsk",
-      "path": "Job Search/Letters/OneSubsea/OneSubsea – Norsk.md"
-    },
-    {
-      "basename": "OneSubsea – English",
-      "path": "Job Search/Letters/OneSubsea/OneSubsea – English.md"
-    },
-    {
-      "basename": "OneSubsea",
-      "path": "Job Search/Applications/OneSubsea.md"
-    },
-    {
-      "basename": "OneSubsea",
-      "path": "Job Search/Ads/OneSubsea.md"
-    },
-    {
-      "basename": "skole periode",
-      "path": "Excalidraw/excalidraws/skole periode.md"
-    },
-    {
-      "basename": "OneSubsea – English",
-      "path": "Job Search/Letters/OneSubsea/OneSubsea – English.pdf"
-    },
-    {
-      "basename": "Storebrand",
-      "path": "Job Search/Ads/Storebrand.md"
-    },
-    {
-      "basename": "Miles",
-      "path": "Job Search/Ads/Miles.md"
-    },
-    {
-      "basename": "EXPERIS AS",
-      "path": "Job Search/Ads/EXPERIS AS.md"
-    },
-    {
-      "basename": "Storebrand",
-      "path": "Job Search/Applications/Storebrand.md"
-    },
-    {
-      "basename": "Miles",
-      "path": "Job Search/Applications/Miles.md"
     },
     {
       "basename": "EXPERIS AS",
       "path": "Job Search/Applications/EXPERIS AS.md"
     },
     {
-      "basename": "Daily Brief",
-      "path": "AIOS/Skills/Daily Brief.md"
+      "basename": "Miles",
+      "path": "Job Search/Applications/Miles.md"
     },
     {
-      "basename": "2026-W41 Weekly Brief",
-      "path": "AIOS/History/Weekly Briefs/2026-W41 Weekly Brief.md"
+      "basename": "Sopra Steria",
+      "path": "Job Search/Applications/Sopra Steria.md"
     },
     {
-      "basename": "Plan My Day",
-      "path": "AIOS/Skills/Plan My Day.md"
+      "basename": "Storebrand",
+      "path": "Job Search/Applications/Storebrand.md"
     },
     {
-      "basename": "Skill Map",
-      "path": "AIOS/Maps/Skill Map.md"
+      "basename": "Ease Live – English",
+      "path": "Job Search/Letters/Ease Live/Ease Live – English.md"
     },
     {
-      "basename": "2026-10-08 Daily Log",
-      "path": "AIOS/History/Daily Logs/2026-10-08 Daily Log.md"
+      "basename": "Ease Live – Norsk",
+      "path": "Job Search/Letters/Ease Live/Ease Live – Norsk.md"
     },
     {
-      "basename": "2026-10-07 Daily Brief",
-      "path": "AIOS/History/Daily Briefs/2026-10-07 Daily Brief.md"
+      "basename": "OneSubsea",
+      "path": "Job Search/Ads/OneSubsea.md"
+    },
+    {
+      "basename": "DNV – Norsk",
+      "path": "Job Search/Letters/DNV/DNV – Norsk.md"
+    },
+    {
+      "basename": "CV - Norsk",
+      "path": "Job Search/CV/CV - Norsk.md"
+    },
+    {
+      "basename": "Obsidian Cheat Sheet",
+      "path": "Obsidian Cheat Sheet.md"
+    },
+    {
+      "basename": "2026-10-14 Daily Brief",
+      "path": "AIOS/History/Daily Briefs/2026-10-14 Daily Brief.md"
+    },
+    {
+      "basename": "2026-10-13",
+      "path": "calendar/daily/2026-10-13.md"
+    },
+    {
+      "basename": "Applications",
+      "path": "Job Search/Applications.base"
+    },
+    {
+      "basename": "DNV",
+      "path": "Job Search/Ads/DNV.md"
+    },
+    {
+      "basename": "2026-W41 Weekly Comic",
+      "path": "Excalidraw/Comics/2026-W41 Weekly Comic.excalidraw"
+    },
+    {
+      "basename": "2026-10 Monthly Comic",
+      "path": "Excalidraw/Comics/2026-10 Monthly Comic.excalidraw"
+    },
+    {
+      "basename": "Pasted Image 20261008113503_793",
+      "path": "Attachments/Pasted Image 20261008113503_793.png"
+    },
+    {
+      "basename": "Briefing System",
+      "path": "AIOS/Systems/Briefing System.md"
+    },
+    {
+      "basename": "2026-10-13 Daily Log",
+      "path": "AIOS/History/Daily Logs/2026-10-13 Daily Log.md"
+    },
+    {
+      "basename": "Job Applications",
+      "path": "Job Search/Job Applications.md"
+    },
+    {
+      "basename": "me",
+      "path": "ideaverse/me.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "Vault Map",
+      "path": "AIOS/Maps/Vault Map.md"
+    },
+    {
+      "basename": "2026-W42 Weekly Brief",
+      "path": "AIOS/History/Weekly Briefs/2026-W42 Weekly Brief.md"
     }
   ],
   "omittedPaths": [],

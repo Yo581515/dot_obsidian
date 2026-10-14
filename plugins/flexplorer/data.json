@@ -1,0 +1,1607 @@
+{
+  "items": {
+    "/": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Operon",
+        "Job Search",
+        "AIOS",
+        "calendar",
+        "Excalidraw",
+        "Templates",
+        "ideaverse",
+        "Attachments",
+        "+",
+        "Obsidian Cheat Sheet.md",
+        "Learning Plan Full-Stack, C# & Terraform.md",
+        "CLAUDE.md",
+        "100 Funny Jokes.md"
+      ]
+    },
+    "Operon": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Archives",
+        "Docs",
+        "Tables",
+        "Tasks"
+      ]
+    },
+    "Operon/Tasks": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Portfolio Tasks.md",
+        "My Tasks.md",
+        "Learning Tasks.md",
+        "Job Search Tasks.md",
+        "Interview Prep Tasks.md"
+      ]
+    },
+    "Operon/Tasks/My Tasks.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791539819442,
+      "mtime": 1791905535683
+    },
+    "Operon/Tasks/Learning Tasks.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791904497731,
+      "mtime": 1791904497735
+    },
+    "Operon/Tasks/Job Search Tasks.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791904496811,
+      "mtime": 1791999099934
+    },
+    "Operon/Tasks/Portfolio Tasks.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791904498100,
+      "mtime": 1791904498105
+    },
+    "Operon/Tasks/Interview Prep Tasks.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791904497273,
+      "mtime": 1791968187076
+    },
+    "Operon/Tables": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Default table.table"
+      ]
+    },
+    "Operon/Tables/Default table.table": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791146001021,
+      "mtime": 1791687568814
+    },
+    "Operon/Docs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Operon/Archives": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Test Task.md",
+        "Test inline task.md",
+        "send 3 søknader.md"
+      ]
+    },
+    "Operon/Archives/send 3 søknader.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791167060519,
+      "mtime": 1791463922486
+    },
+    "Operon/Archives/Test inline task.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791904498528,
+      "mtime": 1791904498533
+    },
+    "Operon/Archives/Test Task.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791485223010,
+      "mtime": 1791620810932
+    },
+    "Excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Comics",
+        "excalidraws",
+        "2026 plan.excalidraw"
+      ]
+    },
+    "Excalidraw/2026 plan.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791137294174,
+      "mtime": 1791999468639
+    },
+    "Excalidraw/excalidraws": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Libraries",
+        "ztester.excalidraw",
+        "skole periode.md",
+        "Linear Calendar 2026.excalidraw",
+        "Kanban Board.excalidraw",
+        "Daily Planner v2.excalidraw",
+        "Comic - Sleep Reset.excalidraw",
+        "Calendar 2026 v2.excalidraw"
+      ]
+    },
+    "Excalidraw/excalidraws/Calendar 2026 v2.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098961502,
+      "mtime": 1791098978873
+    },
+    "Excalidraw/excalidraws/Daily Planner v2.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791099466079,
+      "mtime": 1791137451869
+    },
+    "Excalidraw/excalidraws/Kanban Board.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791096007474,
+      "mtime": 1791096831646
+    },
+    "Excalidraw/excalidraws/Libraries": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "web-kit 1.excalidrawlib",
+        "web-kit.excalidrawlib",
+        "universal-ui-kit.excalidrawlib",
+        "UML-ER-library.excalidrawlib",
+        "technology-logos.excalidrawlib",
+        "systems-design-components.excalidrawlib",
+        "system-design-template.excalidrawlib",
+        "system-design.excalidrawlib",
+        "storytelling.excalidrawlib",
+        "stick-figures.excalidrawlib",
+        "some-handdrawn-signs.excalidrawlib",
+        "software-architecture.excalidrawlib",
+        "post-it.excalidrawlib",
+        "network-topology-icons.excalidrawlib",
+        "microsoft-azure-cloud-icons.excalidrawlib",
+        "local-library.excalidrawlib",
+        "lo-fi-wireframing-kit.excalidrawlib",
+        "it-logos.excalidrawlib",
+        "information-architecture.excalidrawlib",
+        "icons.excalidrawlib",
+        "google-icons.excalidrawlib",
+        "gantt.excalidrawlib",
+        "forms.excalidrawlib",
+        "drwnio.excalidrawlib",
+        "dev_ops.excalidrawlib",
+        "decision-flow-control.excalidrawlib",
+        "db-eng.excalidrawlib",
+        "data-viz.excalidrawlib",
+        "data-sources.excalidrawlib",
+        "data-platform.excalidrawlib",
+        "computers.excalidrawlib",
+        "cloud-design-patterns.excalidrawlib",
+        "cloud.excalidrawlib",
+        "bubbles.excalidrawlib",
+        "basic-ux-wireframing-elements.excalidrawlib",
+        "basic-shapes.excalidrawlib",
+        "azure-cloud-services.excalidrawlib",
+        "aws-serverless.excalidrawlib",
+        "aws-architecture-icons.excalidrawlib",
+        "awesome-icons.excalidrawlib",
+        "artem-s-icons.excalidrawlib",
+        "algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib"
+      ]
+    },
+    "Excalidraw/excalidraws/Libraries/algorithms-and-data-structures-arrays-matrices-trees.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097980739,
+      "mtime": 1791147789829
+    },
+    "Excalidraw/excalidraws/Libraries/artem-s-icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098019690,
+      "mtime": 1791098020083
+    },
+    "Excalidraw/excalidraws/Libraries/awesome-icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097954849,
+      "mtime": 1791097955246
+    },
+    "Excalidraw/excalidraws/Libraries/aws-serverless.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098014653,
+      "mtime": 1791147797351
+    },
+    "Excalidraw/excalidraws/Libraries/aws-architecture-icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097942967,
+      "mtime": 1791147791621
+    },
+    "Excalidraw/excalidraws/Libraries/azure-cloud-services.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098027347,
+      "mtime": 1791147798587
+    },
+    "Excalidraw/excalidraws/Libraries/basic-ux-wireframing-elements.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097959616,
+      "mtime": 1791097960017
+    },
+    "Excalidraw/excalidraws/Libraries/bubbles.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097997082,
+      "mtime": 1791097997499
+    },
+    "Excalidraw/excalidraws/Libraries/cloud-design-patterns.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097991907,
+      "mtime": 1791147799280
+    },
+    "Excalidraw/excalidraws/Libraries/cloud.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097957029,
+      "mtime": 1791147800613
+    },
+    "Excalidraw/excalidraws/Libraries/computers.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098009818,
+      "mtime": 1791098010199
+    },
+    "Excalidraw/excalidraws/Libraries/data-sources.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098036343,
+      "mtime": 1791147801697
+    },
+    "Excalidraw/excalidraws/Libraries/data-platform.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098021931,
+      "mtime": 1791098022338
+    },
+    "Excalidraw/excalidraws/Libraries/data-viz.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097952327,
+      "mtime": 1791097952681
+    },
+    "Excalidraw/excalidraws/Libraries/db-eng.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097982958,
+      "mtime": 1791147802740
+    },
+    "Excalidraw/excalidraws/Libraries/decision-flow-control.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097962100,
+      "mtime": 1791147803410
+    },
+    "Excalidraw/excalidraws/Libraries/drwnio.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097939250,
+      "mtime": 1791147804035
+    },
+    "Excalidraw/excalidraws/Libraries/dev_ops.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097975871,
+      "mtime": 1791097976289
+    },
+    "Excalidraw/excalidraws/Libraries/forms.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097949406,
+      "mtime": 1791097949800
+    },
+    "Excalidraw/excalidraws/Libraries/google-icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097968301,
+      "mtime": 1791097968703
+    },
+    "Excalidraw/excalidraws/Libraries/gantt.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098017004,
+      "mtime": 1791098017383
+    },
+    "Excalidraw/excalidraws/Libraries/icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097971301,
+      "mtime": 1791097971693
+    },
+    "Excalidraw/excalidraws/Libraries/information-architecture.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098002507,
+      "mtime": 1791098002898
+    },
+    "Excalidraw/excalidraws/Libraries/it-logos.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098004835,
+      "mtime": 1791098005244
+    },
+    "Excalidraw/excalidraws/Libraries/lo-fi-wireframing-kit.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097985167,
+      "mtime": 1791147805193
+    },
+    "Excalidraw/excalidraws/Libraries/microsoft-azure-cloud-icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098012255,
+      "mtime": 1791098012649
+    },
+    "Excalidraw/excalidraws/Libraries/network-topology-icons.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097978145,
+      "mtime": 1791097978542
+    },
+    "Excalidraw/excalidraws/Libraries/post-it.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097989586,
+      "mtime": 1791097989957
+    },
+    "Excalidraw/excalidraws/Libraries/software-architecture.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097931101,
+      "mtime": 1791147805912
+    },
+    "Excalidraw/excalidraws/Libraries/some-handdrawn-signs.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098029719,
+      "mtime": 1791098030116
+    },
+    "Excalidraw/excalidraws/Libraries/stick-figures.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097698895,
+      "mtime": 1791097699314
+    },
+    "Excalidraw/excalidraws/Libraries/system-design.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097935623,
+      "mtime": 1791147806770
+    },
+    "Excalidraw/excalidraws/Libraries/system-design-template.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097964449,
+      "mtime": 1791147806727
+    },
+    "Excalidraw/excalidraws/Libraries/storytelling.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098006991,
+      "mtime": 1791098007434
+    },
+    "Excalidraw/excalidraws/Libraries/systems-design-components.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097973512,
+      "mtime": 1791147806858
+    },
+    "Excalidraw/excalidraws/Libraries/web-kit.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097999797,
+      "mtime": 1791147807372
+    },
+    "Excalidraw/excalidraws/Libraries/universal-ui-kit.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791098032100,
+      "mtime": 1791098032542
+    },
+    "Excalidraw/excalidraws/Libraries/technology-logos.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791097987291,
+      "mtime": 1791147807252
+    },
+    "Excalidraw/excalidraws/Libraries/basic-shapes.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791135140689,
+      "mtime": 1791097995153
+    },
+    "Excalidraw/excalidraws/Libraries/web-kit 1.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791151122192,
+      "mtime": 1791147807372
+    },
+    "Excalidraw/excalidraws/Libraries/UML-ER-library.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791135156272,
+      "mtime": 1791147807347
+    },
+    "Excalidraw/excalidraws/Libraries/local-library.excalidrawlib": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791154007984,
+      "mtime": 1791193047782
+    },
+    "Excalidraw/excalidraws/Linear Calendar 2026.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791137964633,
+      "mtime": 1791541913905
+    },
+    "Excalidraw/excalidraws/ztester.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791146952772,
+      "mtime": 1791541897208
+    },
+    "Excalidraw/excalidraws/Comic - Sleep Reset.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791300379988,
+      "mtime": 1791541945267
+    },
+    "Excalidraw/excalidraws/skole periode.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791452092852,
+      "mtime": 1791452106696
+    },
+    "Excalidraw/Comics": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026-W41 Weekly Comic.excalidraw",
+        "2026-10 Monthly Comic.excalidraw"
+      ]
+    },
+    "Excalidraw/Comics/2026-W41 Weekly Comic.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791302931672,
+      "mtime": 1791302931678
+    },
+    "Excalidraw/Comics/2026-10 Monthly Comic.excalidraw": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791322550659,
+      "mtime": 1791322550664
+    },
+    "calendar": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "daily",
+        "monthly",
+        "weekly"
+      ]
+    },
+    "calendar/weekly": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "calendar/daily": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026-10-14.md",
+        "2026-10-13.md",
+        "2026-10-12.md",
+        "2026-10-11.md",
+        "2026-10-10.md",
+        "2026-10-09.md",
+        "2026-10-08.md",
+        "2026-10-07.md",
+        "2026-10-06.md",
+        "2026-10-04.md"
+      ]
+    },
+    "calendar/daily/2026-10-04.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791141176718,
+      "mtime": 1791149806009
+    },
+    "calendar/daily/2026-10-06.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791299721910,
+      "mtime": 1791299721916
+    },
+    "calendar/daily/2026-10-07.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791325615089,
+      "mtime": 1791339298971
+    },
+    "calendar/daily/2026-10-08.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791451396383,
+      "mtime": 1791892609613
+    },
+    "calendar/daily/2026-10-10.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791604749126,
+      "mtime": 1791700123490
+    },
+    "calendar/daily/2026-10-09.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791538028226,
+      "mtime": 1791892574511
+    },
+    "calendar/daily/2026-10-11.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791699989542,
+      "mtime": 1791893182069
+    },
+    "calendar/daily/2026-10-12.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791793826912,
+      "mtime": 1791892517548
+    },
+    "calendar/daily/2026-10-13.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791882775834,
+      "mtime": 1791953119879
+    },
+    "calendar/daily/2026-10-14.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791955962440,
+      "mtime": 1791998767339
+    },
+    "calendar/monthly": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "Attachments": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Pasted Image 20261008113503_793.png",
+        "foto_to_take.jpg"
+      ]
+    },
+    "Attachments/Pasted Image 20261008113503_793.png": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791452103807,
+      "mtime": 1791452103823
+    },
+    "Attachments/foto_to_take.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791997933792,
+      "mtime": 1791997933796
+    },
+    "Templates": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "NAV Job.md",
+        "Job Application.md",
+        "Daily Note.md"
+      ]
+    },
+    "Templates/Daily Note.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791323812163,
+      "mtime": 1791323812171
+    },
+    "Templates/Job Application.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791452246949,
+      "mtime": 1791752433891
+    },
+    "Templates/NAV Job.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751074746,
+      "mtime": 1791751074750
+    },
+    "AIOS": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "History",
+        "Maps",
+        "Skills",
+        "Systems"
+      ]
+    },
+    "AIOS/Maps": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Vault Map.md",
+        "Skill Map.md"
+      ]
+    },
+    "AIOS/Maps/Vault Map.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791265282981,
+      "mtime": 1791996147799
+    },
+    "AIOS/Maps/Skill Map.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791265306055,
+      "mtime": 1791996148172
+    },
+    "AIOS/History": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Daily Briefs",
+        "Daily Logs",
+        "Monthly Briefs",
+        "Weekly Briefs"
+      ]
+    },
+    "AIOS/History/Daily Briefs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026-10-14 Daily Brief.md",
+        "2026-10-13 Daily Brief.md",
+        "2026-10-12 Daily Brief.md",
+        "2026-10-11 Daily Brief.md",
+        "2026-10-10 Daily Brief.md",
+        "2026-10-09 Daily Brief.md",
+        "2026-10-08 Daily Brief.md",
+        "2026-10-07 Daily Brief.md",
+        "2026-10-06 Daily Brief.md"
+      ]
+    },
+    "AIOS/History/Daily Briefs/2026-10-06 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791266980047,
+      "mtime": 1791322553225
+    },
+    "AIOS/History/Daily Briefs/2026-10-07 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791324812597,
+      "mtime": 1791325646108
+    },
+    "AIOS/History/Daily Briefs/2026-10-09 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791538027870,
+      "mtime": 1791686553320
+    },
+    "AIOS/History/Daily Briefs/2026-10-08 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791451395891,
+      "mtime": 1791467728383
+    },
+    "AIOS/History/Daily Briefs/2026-10-10 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791604748753,
+      "mtime": 1791605339873
+    },
+    "AIOS/History/Daily Briefs/2026-10-11 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791699369927,
+      "mtime": 1791699989977
+    },
+    "AIOS/History/Daily Briefs/2026-10-13 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791880412403,
+      "mtime": 1791880412409
+    },
+    "AIOS/History/Daily Briefs/2026-10-12 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791790429658,
+      "mtime": 1791790429668
+    },
+    "AIOS/History/Daily Briefs/2026-10-14 Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791953183647,
+      "mtime": 1791953183657
+    },
+    "AIOS/History/Daily Logs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026-10-14 Daily Log.md",
+        "2026-10-13 Daily Log.md",
+        "2026-10-12 Daily Log.md",
+        "2026-10-11 Daily Log.md",
+        "2026-10-10 Daily Log.md",
+        "2026-10-09 Daily Log.md",
+        "2026-10-08 Daily Log.md",
+        "2026-10-07 Daily Log.md",
+        "2026-10-06 Daily Log.md"
+      ]
+    },
+    "AIOS/History/Daily Logs/2026-10-06 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791267332932,
+      "mtime": 1791323814072
+    },
+    "AIOS/History/Daily Logs/2026-10-07 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791324812967,
+      "mtime": 1791339299341
+    },
+    "AIOS/History/Daily Logs/2026-10-09 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791538028559,
+      "mtime": 1791604750141
+    },
+    "AIOS/History/Daily Logs/2026-10-08 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791451396937,
+      "mtime": 1791747505042
+    },
+    "AIOS/History/Daily Logs/2026-10-10 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791604749450,
+      "mtime": 1791699371600
+    },
+    "AIOS/History/Daily Logs/2026-10-12 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791790430198,
+      "mtime": 1791801772098
+    },
+    "AIOS/History/Daily Logs/2026-10-13 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791880412868,
+      "mtime": 1791910851423
+    },
+    "AIOS/History/Daily Logs/2026-10-11 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791699370313,
+      "mtime": 1791752558383
+    },
+    "AIOS/History/Daily Logs/2026-10-14 Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791953184040,
+      "mtime": 1791998085635
+    },
+    "AIOS/History/Weekly Briefs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026-W42 Weekly Brief.md",
+        "2026-W41 Weekly Brief.md"
+      ]
+    },
+    "AIOS/History/Weekly Briefs/2026-W41 Weekly Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791302931244,
+      "mtime": 1791699371220
+    },
+    "AIOS/History/Weekly Briefs/2026-W42 Weekly Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791699370774,
+      "mtime": 1791910850675
+    },
+    "AIOS/History/Monthly Briefs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026-10 Monthly Brief.md"
+      ]
+    },
+    "AIOS/History/Monthly Briefs/2026-10 Monthly Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791322550230,
+      "mtime": 1791701743815
+    },
+    "AIOS/Skills": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Weekly Brief.md",
+        "Plan My Day.md",
+        "Monthly Brief.md",
+        "End My Day.md",
+        "Daily Log.md",
+        "Daily Brief.md",
+        "Course Planner.md"
+      ]
+    },
+    "AIOS/Skills/Plan My Day.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791265663159,
+      "mtime": 1791904499414
+    },
+    "AIOS/Skills/End My Day.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791265663519,
+      "mtime": 1791904499848
+    },
+    "AIOS/Skills/Daily Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791266979668,
+      "mtime": 1791474385130
+    },
+    "AIOS/Skills/Daily Log.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791267332567,
+      "mtime": 1791325083817
+    },
+    "AIOS/Skills/Weekly Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791302930870,
+      "mtime": 1791451737425
+    },
+    "AIOS/Skills/Monthly Brief.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791322549821,
+      "mtime": 1791325083419
+    },
+    "AIOS/Skills/Course Planner.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791701744513,
+      "mtime": 1791904500330
+    },
+    "AIOS/Systems": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Briefing System.md"
+      ]
+    },
+    "AIOS/Systems/Briefing System.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791325081504,
+      "mtime": 1791904500730
+    },
+    "100 Funny Jokes.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791260350287,
+      "mtime": 1791686776699
+    },
+    "Obsidian Cheat Sheet.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791262209337,
+      "mtime": 1791893156793
+    },
+    "+": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "ideaverse": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "me.md"
+      ]
+    },
+    "ideaverse/me.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791264231318,
+      "mtime": 1791996148577
+    },
+    "Job Search": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Ads",
+        "Applications",
+        "CV",
+        "docs",
+        "Letters",
+        "NAV",
+        "Job Applications.md",
+        "Applications.base"
+      ]
+    },
+    "Job Search/Job Applications.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791452245620,
+      "mtime": 1791998084181
+    },
+    "Job Search/Applications.base": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791452246053,
+      "mtime": 1791903122372
+    },
+    "Job Search/Applications": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Trainee Sør.md",
+        "TechnipFMC.md",
+        "Storebrand.md",
+        "Sopra Steria.md",
+        "OneSubsea.md",
+        "Miles.md",
+        "EXPERIS AS.md",
+        "Ease Live.md",
+        "DNV.md"
+      ]
+    },
+    "Job Search/Applications/Miles.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791452246525,
+      "mtime": 1791909565148
+    },
+    "Job Search/Applications/EXPERIS AS.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791453289074,
+      "mtime": 1791996146140
+    },
+    "Job Search/Applications/Storebrand.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791464628629,
+      "mtime": 1791747505208
+    },
+    "Job Search/Applications/OneSubsea.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791748281557,
+      "mtime": 1791998084886
+    },
+    "Job Search/Applications/TechnipFMC.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791752434691,
+      "mtime": 1791998085271
+    },
+    "Job Search/Applications/Trainee Sør.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791752421306,
+      "mtime": 1791801771410
+    },
+    "Job Search/Applications/DNV.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791885440939,
+      "mtime": 1791996147395
+    },
+    "Job Search/Applications/Ease Live.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791888907437,
+      "mtime": 1791996147008
+    },
+    "Job Search/Applications/Sopra Steria.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907378093,
+      "mtime": 1791996146535
+    },
+    "Job Search/Ads": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Trainee Sør.md",
+        "TechnipFMC.md",
+        "Storebrand.md",
+        "Sopra Steria.md",
+        "OneSubsea.md",
+        "Miles.md",
+        "EXPERIS AS.md",
+        "Ease Live.md",
+        "DNV.md"
+      ]
+    },
+    "Job Search/Ads/EXPERIS AS.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791464875758,
+      "mtime": 1791465063822
+    },
+    "Job Search/Ads/Miles.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791465152378,
+      "mtime": 1791465268067
+    },
+    "Job Search/Ads/Storebrand.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791465302524,
+      "mtime": 1791465317202
+    },
+    "Job Search/Ads/Trainee Sør.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791752435111,
+      "mtime": 1791752559248
+    },
+    "Job Search/Ads/OneSubsea.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791748281931,
+      "mtime": 1791748281936
+    },
+    "Job Search/Ads/TechnipFMC.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791752435491,
+      "mtime": 1791886733609
+    },
+    "Job Search/Ads/DNV.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791885440529,
+      "mtime": 1791886676951
+    },
+    "Job Search/Ads/Ease Live.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791888907024,
+      "mtime": 1791888907029
+    },
+    "Job Search/Ads/Sopra Steria.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907377668,
+      "mtime": 1791907377672
+    },
+    "Job Search/Letters": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "DNV",
+        "Ease Live",
+        "Experis",
+        "OneSubsea",
+        "Sopra Steria",
+        "TechnipFMC",
+        "Trainee Sør",
+        "Søknad – Mal (Tekna).md"
+      ]
+    },
+    "Job Search/Letters/OneSubsea": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Søknad - OneSubsea - English.pdf",
+        "OneSubsea – Norsk.md",
+        "OneSubsea – English.md"
+      ]
+    },
+    "Job Search/Letters/OneSubsea/OneSubsea – English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791747908589,
+      "mtime": 1791747908597
+    },
+    "Job Search/Letters/OneSubsea/OneSubsea – Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791747909076,
+      "mtime": 1791747909085
+    },
+    "Job Search/Letters/OneSubsea/Søknad - OneSubsea - English.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791997441805,
+      "mtime": 1791997441806
+    },
+    "Job Search/Letters/Trainee Sør": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Trainee Sør – Norsk.md",
+        "Trainee Sør – Norsk.pdf",
+        "Trainee Sør – English.md",
+        "Trainee Sør – English.pdf"
+      ]
+    },
+    "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791794814009,
+      "mtime": 1791797253060
+    },
+    "Job Search/Letters/Trainee Sør/Trainee Sør – English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791794814479,
+      "mtime": 1791797253476
+    },
+    "Job Search/Letters/Trainee Sør/Trainee Sør – English.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791797600824,
+      "mtime": 1791797600829
+    },
+    "Job Search/Letters/Trainee Sør/Trainee Sør – Norsk.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791797619602,
+      "mtime": 1791797619605
+    },
+    "Job Search/Letters/TechnipFMC": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "TechnipFMC – Norsk.md",
+        "TechnipFMC – English.md",
+        "Søknad - TechnipFMC - English.pdf"
+      ]
+    },
+    "Job Search/Letters/TechnipFMC/TechnipFMC – English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791799035024,
+      "mtime": 1791800017258
+    },
+    "Job Search/Letters/TechnipFMC/TechnipFMC – Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791799035537,
+      "mtime": 1791800017765
+    },
+    "Job Search/Letters/TechnipFMC/Søknad - TechnipFMC - English.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791996585544,
+      "mtime": 1791997535387
+    },
+    "Job Search/Letters/DNV": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Søknad - DNV - English.pdf",
+        "Søknad - DNV.pdf",
+        "DNV – Norsk.md",
+        "DNV – English.md"
+      ]
+    },
+    "Job Search/Letters/DNV/DNV – Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791885444534,
+      "mtime": 1791885968168
+    },
+    "Job Search/Letters/DNV/DNV – English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791885444108,
+      "mtime": 1791885967712
+    },
+    "Job Search/Letters/DNV/Søknad - DNV.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791994608115,
+      "mtime": 1791994915225
+    },
+    "Job Search/Letters/DNV/Søknad - DNV - English.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791995496919,
+      "mtime": 1791997175480
+    },
+    "Job Search/Letters/Ease Live": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Søknad - Ease Live AS - English.pdf",
+        "Ease Live – Norsk.md",
+        "Ease Live – English.md",
+        "CV.md"
+      ]
+    },
+    "Job Search/Letters/Ease Live/CV.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791888903611,
+      "mtime": 1791889346746
+    },
+    "Job Search/Letters/Ease Live/Ease Live – English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791888906281,
+      "mtime": 1791892390614
+    },
+    "Job Search/Letters/Ease Live/Ease Live – Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791888906663,
+      "mtime": 1791892390649
+    },
+    "Job Search/Letters/Ease Live/Søknad - Ease Live AS - English.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791995821135,
+      "mtime": 1791997338125
+    },
+    "Job Search/Letters/Sopra Steria": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Sopra Steria – Svar.md",
+        "Sopra Steria – Norsk.md",
+        "Sopra Steria – English.md",
+        "Søknad - Soprasteria.pdf",
+        "CV – Sopra Steria.md",
+        "CV - Soprasteria.pdf"
+      ]
+    },
+    "Job Search/Letters/Sopra Steria/Sopra Steria – Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907857512,
+      "mtime": 1791908241488
+    },
+    "Job Search/Letters/Sopra Steria/Sopra Steria – English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907857947,
+      "mtime": 1791908241943
+    },
+    "Job Search/Letters/Sopra Steria/Sopra Steria – Svar.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907378545,
+      "mtime": 1791909425450
+    },
+    "Job Search/Letters/Sopra Steria/CV – Sopra Steria.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907994513,
+      "mtime": 1791908141490
+    },
+    "Job Search/Letters/Sopra Steria/CV - Soprasteria.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791994025260,
+      "mtime": 1791993750948
+    },
+    "Job Search/Letters/Sopra Steria/Søknad - Soprasteria.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791994306133,
+      "mtime": 1791994306134
+    },
+    "Job Search/Letters/Experis": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Søknad - Experis.pdf",
+        "CV - Experis.pdf"
+      ]
+    },
+    "Job Search/Letters/Experis/Søknad - Experis.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791993258897,
+      "mtime": 1791993258898
+    },
+    "Job Search/Letters/Experis/CV - Experis.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791993750947,
+      "mtime": 1791993750948
+    },
+    "Job Search/Letters/Søknad – Mal (Tekna).md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791996145775,
+      "mtime": 1791998084527
+    },
+    "Job Search/CV": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "CV - Norsk.md",
+        "CV - Norsk.pdf",
+        "CV - English.md",
+        "CV - English.pdf"
+      ]
+    },
+    "Job Search/CV/CV - Norsk.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791716779968,
+      "mtime": 1791797266240
+    },
+    "Job Search/CV/CV - English.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791716779494,
+      "mtime": 1791797266717
+    },
+    "Job Search/CV/CV - English.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791745924324,
+      "mtime": 1791994633886
+    },
+    "Job Search/CV/CV - Norsk.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791747194876,
+      "mtime": 1791981386387
+    },
+    "Job Search/docs": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "images",
+        "Karakterutskrift_Digitalt_Signert.pdf",
+        "Diploma Supplement - digitalt signert (Master i ingeniørfag).pdf",
+        "Diploma Supplement - digitalt signert (Bachelor i ingeniørfag).pdf"
+      ]
+    },
+    "Job Search/docs/Diploma Supplement - digitalt signert (Master i ingeniørfag).pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791750886719,
+      "mtime": 1791451862159
+    },
+    "Job Search/docs/Diploma Supplement - digitalt signert (Bachelor i ingeniørfag).pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791750886755,
+      "mtime": 1787776636745
+    },
+    "Job Search/docs/Karakterutskrift_Digitalt_Signert.pdf": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791750886780,
+      "mtime": 1787772424668
+    },
+    "Job Search/docs/images": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "gray_backround.jpg",
+        "1 (1)-hvl_colour.jpg",
+        "1 (1)-gray.jpg",
+        "1 (1)-blue gray.jpg",
+        "1 (1).jpg",
+        "1.jpg"
+      ]
+    },
+    "Job Search/docs/images/gray_backround.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791970450007,
+      "mtime": 1791970450008
+    },
+    "Job Search/docs/images/1.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791970480897,
+      "mtime": 1791970480900
+    },
+    "Job Search/docs/images/1 (1).jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791970488918,
+      "mtime": 1791970488919
+    },
+    "Job Search/docs/images/1 (1)-hvl_colour.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791970493437,
+      "mtime": 1791970493440
+    },
+    "Job Search/docs/images/1 (1)-gray.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791970497378,
+      "mtime": 1791970497380
+    },
+    "Job Search/docs/images/1 (1)-blue gray.jpg": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791970501617,
+      "mtime": 1791970501618
+    },
+    "Job Search/NAV": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "NAV – Trainee Sør.md",
+        "NAV – TechnipFMC.md",
+        "NAV – Storebrand.md",
+        "NAV – Sopra Steria.md",
+        "NAV – OneSubsea.md",
+        "NAV – Miles.md",
+        "NAV – EXPERIS AS.md",
+        "NAV – Ease Live.md",
+        "NAV – DNV.md"
+      ]
+    },
+    "Job Search/NAV/NAV – Storebrand.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751073266,
+      "mtime": 1791751448587
+    },
+    "Job Search/NAV/NAV – OneSubsea.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751074371,
+      "mtime": 1791751437401
+    },
+    "Job Search/NAV/NAV – EXPERIS AS.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751073646,
+      "mtime": 1791751441946
+    },
+    "Job Search/NAV/NAV – Miles.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751074001,
+      "mtime": 1791751074006
+    },
+    "Job Search/NAV/NAV – Trainee Sør.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751423247,
+      "mtime": 1791751451058
+    },
+    "Job Search/NAV/NAV – DNV.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791885441371,
+      "mtime": 1791885441375
+    },
+    "Job Search/NAV/NAV – TechnipFMC.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791751644257,
+      "mtime": 1791793722544
+    },
+    "Job Search/NAV/NAV – Ease Live.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791888907815,
+      "mtime": 1791888907819
+    },
+    "Job Search/NAV/NAV – Sopra Steria.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791907379067,
+      "mtime": 1791907379071
+    },
+    "CLAUDE.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791264210396,
+      "mtime": 1791325082334
+    },
+    "Learning Plan Full-Stack, C# & Terraform.md": {
+      "isPinned": false,
+      "isHidden": false,
+      "ctime": 1791959906841,
+      "mtime": 1791959875067
+    }
+  },
+  "showHidden": false,
+  "hidePatterns": [],
+  "newItemPlacement": "top",
+  "persistOrderOnCreateDelete": true,
+  "debugMode": false
+}

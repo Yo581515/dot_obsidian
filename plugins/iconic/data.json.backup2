@@ -24,7 +24,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": true,
-    "rulePage": "file"
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -41,9 +41,6 @@
     },
     "calendar": {
       "color": "blue"
-    },
-    "calendar/daily/2026-11-08.md": {
-      "icon": "🎂"
     },
     "ideaverse/me.md": {
       "icon": "lucide-user-circle",
@@ -68,6 +65,20 @@
     }
   },
   "fileRules": [
+    {
+      "id": "UjueG",
+      "name": "tasks",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "startsWith",
+          "value": "Operon/Tasks/"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-list-todo"
+    },
     {
       "id": "vBc5P",
       "name": "CV - English",
@@ -235,6 +246,21 @@
       "enabled": true,
       "icon": "lucide-library-big",
       "color": "#ff0000"
+    },
+    {
+      "id": "CUwf0",
+      "name": "Applications",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "Applications"
+        }
+      ],
+      "enabled": true,
+      "icon": "⭐",
+      "color": "yellow"
     }
   ],
   "folderRules": []
